@@ -1,0 +1,263 @@
+{
+  "categories": [
+    {
+      "id": "b32bc100-3232-4ab9-bb8a-29fac5ccd85e",
+      "name": "Outdoors",
+      "createdAt": 1668495010583,
+      "updatedAt": 1668495010583
+    },
+    {
+      "id": "a16ea2cf-c15f-4dad-81b0-f1fb9ea43cb9",
+      "name": "Toys",
+      "createdAt": 1668495010583,
+      "updatedAt": 1668495010583
+    },
+    {
+      "id": "967f41cb-494a-45e6-af28-a4abba043c3e",
+      "name": "Health",
+      "createdAt": 1668495010583,
+      "updatedAt": 1668495010583
+    },
+    {
+      "id": "58cad828-c8b9-4f5d-aef8-1a9c768a830f",
+      "name": "Games",
+      "createdAt": 1668495010583,
+      "updatedAt": 1668495010583
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "b32bc100-3232-4ab9-bb8a-29fac5ccd85e",
+      "id": "9ed445aa-d1c0-4a84-ab71-6cc259de94dd",
+      "name": "Practical Frozen Mouse",
+      "color": "silver",
+      "price": 215,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1668495010583,
+      "updatedAt": 1668495010583,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "b32bc100-3232-4ab9-bb8a-29fac5ccd85e",
+      "id": "abcb6367-8ad3-438e-bcc1-e500dcf03240",
+      "name": "Bespoke Bronze Chair",
+      "color": "orchid",
+      "price": 363,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1668495010583,
+      "updatedAt": 1668495010583,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "b32bc100-3232-4ab9-bb8a-29fac5ccd85e",
+      "id": "73b365ef-aba9-4802-bdc0-6fa2fec17e02",
+      "name": "Awesome Fresh Shirt",
+      "color": "ivory",
+      "price": 242,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1668495010583,
+      "updatedAt": 1668495010583,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "b32bc100-3232-4ab9-bb8a-29fac5ccd85e",
+      "id": "81c01b48-cfea-4e2d-a3c5-492bb9601890",
+      "name": "Elegant Metal Computer",
+      "color": "red",
+      "price": 765,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1668495010583,
+      "updatedAt": 1668495010583,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "b32bc100-3232-4ab9-bb8a-29fac5ccd85e",
+      "id": "9f322e8d-c832-46b8-8a26-cbb1df8b7e5b",
+      "name": "Tasty Wooden Salad",
+      "color": "grey",
+      "price": 161,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1668495010583,
+      "updatedAt": 1668495010583,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "a16ea2cf-c15f-4dad-81b0-f1fb9ea43cb9",
+      "id": "e360ee79-d6ea-4f85-956a-688c5e752ba2",
+      "name": "Bespoke Bronze Shirt",
+      "color": "green",
+      "price": 289,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1668495010583,
+      "updatedAt": 1668495010583,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "a16ea2cf-c15f-4dad-81b0-f1fb9ea43cb9",
+      "id": "d04cbeaf-22d9-47dc-b311-6cd9ebc3bad5",
+      "name": "Rustic Metal Tuna",
+      "color": "orange",
+      "price": 540,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1668495010584,
+      "updatedAt": 1668495010584,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "a16ea2cf-c15f-4dad-81b0-f1fb9ea43cb9",
+      "id": "07dcd83e-bd62-4d57-a9b0-47de77c44914",
+      "name": "Sleek Steel Salad",
+      "color": "pink",
+      "price": 458,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1668495010584,
+      "updatedAt": 1668495010584,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "a16ea2cf-c15f-4dad-81b0-f1fb9ea43cb9",
+      "id": "c4f5d04c-3c24-4616-8cca-4af88799e445",
+      "name": "Tasty Soft Tuna",
+      "color": "cyan",
+      "price": 837,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1668495010584,
+      "updatedAt": 1668495010584,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "a16ea2cf-c15f-4dad-81b0-f1fb9ea43cb9",
+      "id": "b1996042-76bb-42be-9010-583de78939cf",
+      "name": "Incredible Soft Pizza",
+      "color": "tan",
+      "price": 665,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1668495010584,
+      "updatedAt": 1668495010584,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "967f41cb-494a-45e6-af28-a4abba043c3e",
+      "id": "ac7d62d8-0e58-4b46-8f6b-41965317e8af",
+      "name": "Unbranded Bronze Sausages",
+      "color": "mint green",
+      "price": 353,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1668495010584,
+      "updatedAt": 1668495010584,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "967f41cb-494a-45e6-af28-a4abba043c3e",
+      "id": "bb0cee65-6c52-47fd-8cfe-61ec39311de8",
+      "name": "Unbranded Fresh Shirt",
+      "color": "purple",
+      "price": 135,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1668495010584,
+      "updatedAt": 1668495010584,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "967f41cb-494a-45e6-af28-a4abba043c3e",
+      "id": "22857e9d-b34b-4a1e-ba54-0b227e2ef130",
+      "name": "Incredible Rubber Tuna",
+      "color": "violet",
+      "price": 371,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1668495010584,
+      "updatedAt": 1668495010584,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "967f41cb-494a-45e6-af28-a4abba043c3e",
+      "id": "8fd7859e-4dd0-47e6-821d-d2e34e57dee5",
+      "name": "Licensed Fresh Shirt",
+      "color": "mint green",
+      "price": 629,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1668495010584,
+      "updatedAt": 1668495010584,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "967f41cb-494a-45e6-af28-a4abba043c3e",
+      "id": "bf8d10c5-81ec-44d0-a078-2031c552dfa8",
+      "name": "Handmade Rubber Tuna",
+      "color": "azure",
+      "price": 594,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1668495010584,
+      "updatedAt": 1668495010584,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "58cad828-c8b9-4f5d-aef8-1a9c768a830f",
+      "id": "9801c0a2-3ee3-4922-a771-02e52e9f9005",
+      "name": "Tasty Frozen Tuna",
+      "color": "silver",
+      "price": 167,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1668495010584,
+      "updatedAt": 1668495010584,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "58cad828-c8b9-4f5d-aef8-1a9c768a830f",
+      "id": "da587b0d-8dbb-4652-bee8-acd9e4857961",
+      "name": "Sleek Cotton Car",
+      "color": "sky blue",
+      "price": 978,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1668495010584,
+      "updatedAt": 1668495010584,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "58cad828-c8b9-4f5d-aef8-1a9c768a830f",
+      "id": "d7153a79-ed93-4aca-922c-ebe3db616a3e",
+      "name": "Oriental Bronze Pants",
+      "color": "magenta",
+      "price": 976,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1668495010584,
+      "updatedAt": 1668495010584,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "58cad828-c8b9-4f5d-aef8-1a9c768a830f",
+      "id": "be9769f5-f2ee-4e22-9a2d-edcbc45cb127",
+      "name": "Small Wooden Pants",
+      "color": "salmon",
+      "price": 706,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1668495010584,
+      "updatedAt": 1668495010584,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "58cad828-c8b9-4f5d-aef8-1a9c768a830f",
+      "id": "f75d51a6-1384-4a30-befc-10b3a20f2434",
+      "name": "Rustic Wooden Chair",
+      "color": "yellow",
+      "price": 821,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1668495010584,
+      "updatedAt": 1668495010584,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "28759f7e-3509-4064-920a-406dd426033a",
+      "name": "Tasty Plastic Chips",
+      "color": "cyan",
+      "price": 931,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "thumbnailUrl": "http://placeimg.com/400/400",
+      "createdAt": 1668496830930,
+      "id": "QUA4BeQ"
+    }
+  ],
+  "profile": {
+    "name": "Po"
+  }
+}
